@@ -3,9 +3,9 @@
 
 ## 🔗 Índice
 * [🎯 Objetivo](#-objetivo)
-* [📝 Uso básico da tag Section](#-Uso-básico-da-tag-Section)
-* [⚠️ Importância e benefícios do uso da tag](#-Importância-e-benefícios-do-uso-tag-Section)
-* [📍 Considerações de uso da tag Section](#-Considerações-de-uso-tag-Section)
+* [📝 Uso básico da tag Figure](#-Uso-básico-da-tag-Figure)
+* [⚠️ Importância e benefícios do uso da tag](#-Importância-e-benefícios-do-uso-tag-Figure)
+* [📍 Considerações de uso da tag Figure](#-Considerações-de-uso-tag-Figure)
 * [📋 Requisitos funcionais](#-requisitos-funcionais)
 * [📍 Requisitos não-funcionais](#-requisitos-não-funcionais)
 * [🔧 Tecnologias utilizadas](#-tecnologias-utilizadas)
